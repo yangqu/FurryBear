@@ -4,7 +4,7 @@ from pypinyin import lazy_pinyin
 
 
 def capture():
-    source_data = "../data/comments.csv"
+    source_data = "../data/comments-test.csv"
     source_picture = "../data/black_magic_girl2.jpeg"
     source_font = "../data/alipuhui.ttf"
     target_picture = "../result/black_magic_girl2_result_v20.jpeg"
